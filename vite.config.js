@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/firebase-contact-app/', // Add this line
+  base: '/firebase-contact-app/' // Add this line
 });
 
